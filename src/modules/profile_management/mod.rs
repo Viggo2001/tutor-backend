@@ -1,4 +1,3 @@
-pub mod handler;
-pub mod service;
-pub mod repository;
-pub mod model;
+pub mod user;
+pub mod tutor;
+pub mod routes_config;
